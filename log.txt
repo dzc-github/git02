@@ -1,0 +1,8 @@
+access 通道 ; 通路 ; 入径 ; 机会，权利 ; 访问，存取 ; 到达 ; 进入 ; 使用
+https Hypertext Transfer Protocol Secure 超文本传输安全协议
+com commerce 商业 ; committee 委员会
+git 蠢货 ; 饭桶 ; 讨厌鬼
+TCP Transfer Control Protocol 传输控制协议
+connection 联系，关联 ; 联结 ; 接通 ; 连接 ; 连接点 ; 接头
+reset 调整 ; 重新设置 ; 重新安置 ; 将…恢复原位
+peer 身份相同的人 ; 同龄人 ; 同辈 ; 贵族成员 ; 仔细看 ; 端详
