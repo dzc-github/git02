@@ -34,3 +34,6 @@ make install DESTDIR=%{buildroot}
 
 %changelog
 my name is dzc
+
+
+this is a test
