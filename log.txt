@@ -6,4 +6,4 @@ TCP Transfer Control Protocol 传输控制协议
 connection 联系，关联 ; 联结 ; 接通 ; 连接 ; 连接点 ; 接头
 reset 调整 ; 重新设置 ; 重新安置 ; 将…恢复原位
 peer 身份相同的人 ; 同龄人 ; 同辈 ; 贵族成员 ; 仔细看 ; 端详
-master修改内容
+master修改内容&v2r9修改内容
